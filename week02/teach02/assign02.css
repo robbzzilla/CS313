@@ -1,0 +1,8 @@
+p {
+    font-size: medium;
+}
+
+/* Core requirement #2 */
+section:hover {
+    font-weight: bold;
+}
