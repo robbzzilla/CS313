@@ -1,4 +1,4 @@
-<? php
+<?php
 echo '<!DOCTYPE html>';
 echo '<html lang="en">';
 echo '<head>';
@@ -38,7 +38,7 @@ echo '<div class="container">';
 echo '<div class="row">';
 echo '<div class="col-sm-4">';
 echo '<h3>Design & User Experience</h3>';
-echo '<p>Building beautiful layouts and intuitive interfaces that put users'';
+echo '<p>Building beautiful layouts and intuitive interfaces that put users\'';
 echo 'needs first is more craft than art, and we take it seriously here';
 echo 'at ĠІɅϨЅ. Thoughtful, considerate design is at the heart of all we do.';
 echo 'Whether you are a startup looking to find your voice or an established';
@@ -115,15 +115,15 @@ echo '</div>';
 echo '</div>';
 echo '</div>';
 echo '<div class="col-sm-8">';
-echo '<h3>Why we're moving our agency, and clients, to Kubernetes</h3>';
+echo '<h3>Why we\'re moving our agency, and clients, to Kubernetes</h3>';
 echo '<p>"Kubernetes represents a dramatically new way to develop and host web sites."</p>';
 echo '<a href="homepage.html" class="btn btn-primary">Read Full Article</a>';
-echo '<h3>You don't need a CMS</h3>';
-echo '<p>“If we're the only people who are going to be messing around with your CMS, you probably don't need to implement it”</p>';
+echo '<h3>You don\'t need a CMS</h3>';
+echo '<p>“If we\'re the only people who are going to be messing around with your CMS, you probably don\'t need to implement it”</p>';
 echo '<a href="homepage.html" class="btn btn-primary">Read Full Article</a>';
 echo '<h3>How to get a digital design interview in 30 seconds or less</h3>';
 echo '<p>“When applications are stacked 100 deep in an inbox, you only get one chance to make a good first impression.';
-echo 'The good news is it's not rocket science to stand out from the pack.”</p>';
+echo 'The good news is it\'s not rocket science to stand out from the pack.”</p>';
 echo '<a href="homepage.html" class="btn btn-primary">Read Full Article</a>';
 echo '<h3>Creating a collaborative work space</h3>';
 echo '<p>“More specifically- finding, renovating and furnishing a physical work space to collaborate in.”</p>';
