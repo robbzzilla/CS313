@@ -54,9 +54,8 @@
 
         $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-        $query = 'SELECT * FROM movie ORDER by id ASC';
-        $connect = mysqli_connect($dbHost, $dbUser, $dbPassword, $dbName);
-        $result = mysqli_query($connect, $query);
+        $stm = $db->query("SELECT * FROM movie");
+        $rows = $stm->fetchAll(PDO::FETCH_NUM);
     }
     catch (PDOException $ex)
     {
@@ -71,14 +70,14 @@
 <body>
     <h1>Movies</h1>
             <?php
-            foreach ($db->query('SELECT * FROM [movie]') as $row)
+            foreach ($rows as $row)
             {
                 $_SESSION['movie'][$row] = array
                 (
-                    'id' => filter_input(INPUT_GET, 'id'),
-                    'name' => filter_input(INPUT_POST, 'name'),
-                    'score' => filter_input(INPUT_POST, 'score'),
-                    'year' => filter_input(INPUT_POST, 'year')
+                    'id' => $row['id'],
+                    'name' => $row['name'],
+                    'score' => $row['score'],
+                    'year' => $row['year']
                 );
             }
             ?>
