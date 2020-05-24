@@ -55,7 +55,7 @@
         $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
         $stm = $db->query("SELECT * FROM movie");
-        $rows = $stm->fetchAll(PDO::FETCH_NUM);
+        $rows = $stm->fetchAll(PDO::FETCH_ASSOC);
     }
     catch (PDOException $ex)
     {
