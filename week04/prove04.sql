@@ -1,14 +1,14 @@
 -- clean up
 
-DROP TABLE IF EXISTS movies;
+DROP TABLE IF EXISTS movie;
 
 -- setup
 
 CREATE TABLE movie (
-	id SERIAL PRIMARY KEY,
-	name VARCHAR(256) NOT NULL UNIQUE,
-	score DECIMAL NOT NULL,
-	year INT NOT NULL
+                       id SERIAL PRIMARY KEY,
+                       name VARCHAR(1256) NOT NULL,
+                       score FLOAT NOT NULL,
+                       year INT NOT NULL
 );
 
 
@@ -56,7 +56,7 @@ INSERT INTO movie (id, name, score, year) VALUES (20, 'Se7en', 8.6, 1995);
 
 INSERT INTO movie (id, name, score, year) VALUES (21, 'Life Is Beautiful', 8.6, 1997);
 
-INSERT INTO movie (id, name, score, year) VALUES (22, 'City of God', 8.6, (2002)
+INSERT INTO movie (id, name, score, year) VALUES (22, 'City of God', 8.6, 2002);
 
 INSERT INTO movie (id, name, score, year) VALUES (23, 'The Silence of the Lambs', 8.6, 1991);
 
