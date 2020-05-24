@@ -71,9 +71,9 @@
 <body>
     <h1>Movies</h1>
             <?php
-            foreach ($db->query('SELECT * FROM movie') as $row)
+            foreach ($db->query('SELECT * FROM [movie]') as $row)
             {
-                $_SESSION['movie'][$count] = array
+                $_SESSION['movie'][$row] = array
                 (
                     'id' => filter_input(INPUT_GET, 'id'),
                     'name' => filter_input(INPUT_POST, 'name'),
