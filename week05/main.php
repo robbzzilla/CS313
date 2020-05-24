@@ -1,7 +1,7 @@
 <?php
     try
     {
-        $dbUrl = getenv('DATABASE_URL');
+        $dbUrl = getenv('CLEARDB_DATABASE_URL');
 
         $dbOpts = parse_url($dbUrl);
 
@@ -11,7 +11,7 @@
         $dbPassword = $dbOpts["pass"];
         $dbName = ltrim($dbOpts["path"],'/');
 
-        $db = new PDO("pgsql:host=$dbHost;port=$dbPort;dbname=$dbName", $dbUser, $dbPassword);
+        $db = new PDO("mysql:host=$dbHost;port=$dbPort;dbname=$dbName", $dbUser, $dbPassword);
 
         $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     }
