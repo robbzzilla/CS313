@@ -70,12 +70,13 @@
 <?php include 'head.php';?>
 <body>
     <h1>Movies</h1>
-            <?php
-            foreach ($db->query('SELECT DISTINCT name FROM movie') as $row)
-            {
-                echo $row['name'] . '</br>';
-            }
-            ?>
+<!--            --><?php
+//            foreach ($db->query('SELECT DISTINCT name FROM movie') as $row)
+//            {
+//                echo $row['name'] . '</br>';
+//            }
+//            ?>
+    <a href="movies.php">Take me to the movies list</a>
 
 </body>
 </html>
