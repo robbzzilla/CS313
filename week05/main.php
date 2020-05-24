@@ -70,12 +70,18 @@
 <?php include 'head.php';?>
 <body>
     <h1>Movies</h1>
-<!--            --><?php
-//            foreach ($db->query('SELECT DISTINCT name FROM movie') as $row)
-//            {
-//                echo $row['name'] . '</br>';
-//            }
-//            ?>
+            <?php
+            foreach ($db->query('SELECT * FROM movie') as $row)
+            {
+                $_SESSION['movie'][$count] = array
+                (
+                    'id' => filter_input(INPUT_GET, 'id'),
+                    'name' => filter_input(INPUT_POST, 'name'),
+                    'score' => filter_input(INPUT_POST, 'score'),
+                    'year' => filter_input(INPUT_POST, 'year')
+                );
+            }
+            ?>
     <a href="movies.php">Take me to the movies list</a>
 
 </body>
