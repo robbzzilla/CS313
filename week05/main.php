@@ -69,6 +69,15 @@
 <?php include 'head.php';?>
 <body>
     <h1>Movies</h1>
+    <div class="table-responsive">
+        <table class="table">
+            <tr><th colspan="5"><h3>IMDB Top 250</h3></th></tr>
+            <tr>
+                <th width="20%">Rank</th>
+                <th width="40%">Movie Title</th>
+                <th width="15%">Score</th>
+                <th width="25%">Year</th>
+            </tr>
             <?php
             foreach ($rows as $row)
             {
@@ -80,8 +89,19 @@
                     'year' => $row['year']
                 );
             }
+            foreach ($db->query('SELECT * FROM movie') as $row)
+            {
+                ?>
+                <tr>
+                    <td><?php echo $row['id']; ?></td>
+                    <td><?php echo $row['name']; ?></td>
+                    <td><?php echo number_format($row['score'], 1); ?></td>
+                    <td><?php echo $row['year']; ?></td>
+                </tr> <?php
+            }
             ?>
-    <a href="movies.php">Take me to the movies list</a>
+        </table>
+<!--    <a href="movies.php">Take me to the movies list</a>-->
 
 </body>
 </html>
