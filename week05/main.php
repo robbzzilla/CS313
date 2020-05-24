@@ -56,6 +56,7 @@
 
         $query = 'SELECT * FROM movie ORDER by id ASC';
         $connect = mysqli_connect($dbHost, $dbUser, $dbPassword, $dbName);
+        $result = mysqli_query($connect, $query);
     }
     catch (PDOException $ex)
     {
@@ -69,17 +70,12 @@
 <?php include 'head.php';?>
 <body>
     <h1>Movies</h1>
-    <form action="">
-        <select>
             <?php
             foreach ($db->query('SELECT DISTINCT name FROM movie') as $row)
             {
                 echo $row['name'] . '</br>';
             }
             ?>
-        </select>
-        <input type="submit">
-    </form>
 
 </body>
 </html>
