@@ -74,7 +74,7 @@ INSERT INTO movie (id, name, score, year) VALUES (29, 'The Green Mile', 8.5, 199
 
 INSERT INTO movie (id, name, score, year) VALUES (30, 'Interstellar', 8.5, 2014);
 
-INSERT INTO movie (id, name, score, year) VALUES (31, 'Léon: The Professional', 8.5, 1994);
+INSERT INTO movie (id, name, score, year) VALUES (31, 'Leon: The Professional', 8.5, 1994);
 
 INSERT INTO movie (id, name, score, year) VALUES (32, 'The Usual Suspects', 8.5, 1995);
 
