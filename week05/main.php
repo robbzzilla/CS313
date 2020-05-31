@@ -3,7 +3,7 @@
 
     try
     {
-        $dbUrl = getenv('CLEARDB_DATABASE_URL');
+        $dbUrl = getenv('JAWSDB_URL');
 
         $dbOpts = parse_url($dbUrl);
 

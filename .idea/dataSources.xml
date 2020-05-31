@@ -7,5 +7,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://us-cdbr-east-06.cleardb.net:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="ntpy8lcwf7m9r88h@o677vxfi8ok6exrd.cbetxkdyhwsb.us-east-1.rds.amazonaws.com" uuid="70f5f3e4-6c1d-45e1-ad50-2357a47aa662">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://o677vxfi8ok6exrd.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ntpy8lcwf7m9r88h</jdbc-url>
+    </data-source>
   </component>
 </project>
