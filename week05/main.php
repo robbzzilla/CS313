@@ -82,6 +82,6 @@
                 });
             });
         </script>
-
+<?php include_path: '/footer.php'; ?>
 </body>
 </html>

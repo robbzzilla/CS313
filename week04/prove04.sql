@@ -114,434 +114,402 @@ INSERT INTO movie (id, name, score, year) VALUES (49, 'Casablanca', 8.4, 1942);
 
 INSERT INTO movie (id, name, score, year) VALUES (50, 'Rear Window', 8.4, 1954);
 
+INSERT INTO movie (id, name, score, year) VALUES (51, 'Cinema Paradiso', 8.4, 1988);
 
+INSERT INTO movie (id, name, score, year) VALUES (52, 'Joker', 8.4, 2019);
 
+INSERT INTO movie (id, name, score, year) VALUES (53, 'Alien', 8.4, 1979);
 
+INSERT INTO movie (id, name, score, year) VALUES (54, 'Apocalypse Now', 8.4, 1979);
 
+INSERT INTO movie (id, name, score, year) VALUES (55, 'Memento', 8.4, 2000);
 
+INSERT INTO movie (id, name, score, year) VALUES (56, 'Indiana Jones and the Raiders of the Lost Ark', 8.4, 1981);
 
+INSERT INTO movie (id, name, score, year) VALUES (57, 'The Great Dictator', 8.4, 1940);
 
+INSERT INTO movie (id, name, score, year) VALUES (58, 'The Lives of Others', 8.4, 2006);
 
+INSERT INTO movie (id, name, score, year) VALUES (59, 'Django Unchained', 8.4, 2012);
 
--- INSERT INTO movie (id, name, score, year) VALUES Terminator 2: Judgment Day (1991)
+INSERT INTO movie (id, name, score, year) VALUES (60, 'Paths of Glory', 8.4, 1957);
 
--- INSERT INTO movie (id, name, score, year) VALUES Memento (2000)
+INSERT INTO movie (id, name, score, year) VALUES (61, 'The Shining', 8.4, 1980);
 
--- INSERT INTO movie (id, name, score, year) VALUES The Pianist (2002)
+INSERT INTO movie (id, name, score, year) VALUES (62, 'Avengers: Infinity War', 8.4, 2018);
 
--- INSERT INTO movie (id, name, score, year) VALUES Sunset Blvd. (1950)
+INSERT INTO movie (id, name, score, year) VALUES (63, 'WALL-E', 8.4, 2008);
 
+INSERT INTO movie (id, name, score, year) VALUES (64, 'Sunset Blvd.', 8.4, 1950);
 
--- INSERT INTO movie (id, name, score, year) VALUES Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+INSERT INTO movie (id, name, score, year) VALUES (65, 'Spider-Man: Into the Spider-Verse', 8.4, 2018);
 
--- INSERT INTO movie (id, name, score, year) VALUES Apocalypse Now (1979)
+INSERT INTO movie (id, name, score, year) VALUES (66, 'Princess Mononoke', 8.4, 1997);
 
--- INSERT INTO movie (id, name, score, year) VALUES The Departed (2006)
+INSERT INTO movie (id, name, score, year) VALUES (67, 'Dr. Strangelove', 8.4, 1964);
 
--- INSERT INTO movie (id, name, score, year) VALUES Gladiator (2000)
+INSERT INTO movie (id, name, score, year) VALUES (68, 'Oldboy', 8.4, 2003);
 
--- INSERT INTO movie (id, name, score, year) VALUES Boyhood (2014)
+INSERT INTO movie (id, name, score, year) VALUES (69, 'Witness for the Prosecution', 8.4, 1957);
 
--- INSERT INTO movie (id, name, score, year) VALUES Back to the Future (1985)
+INSERT INTO movie (id, name, score, year) VALUES (70, 'Avengers: Endgame', 8.3, 2019);
 
--- INSERT INTO movie (id, name, score, year) VALUES Alien (1979)
+INSERT INTO movie (id, name, score, year) VALUES (71, 'The Dark Knight Rises', 8.3, 2012);
 
--- INSERT INTO movie (id, name, score, year) VALUES The Dark Knight Rises (2012)
+INSERT INTO movie (id, name, score, year) VALUES (72, 'Once Upon a Time in America', 8.3, 1984);
 
--- INSERT INTO movie (id, name, score, year) VALUES The Prestige (2006)
+INSERT INTO movie (id, name, score, year) VALUES (73, 'Aliens', 8.3, 1986);
 
--- INSERT INTO movie (id, name, score, year) VALUES The Lives of Others (2006)
+INSERT INTO movie (id, name, score, year) VALUES (74, 'Your Name.', 8.3, 2016);
 
--- INSERT INTO movie (id, name, score, year) VALUES Django Unchained (2012)
+INSERT INTO movie (id, name, score, year) VALUES (75, 'Coco', 8.3, 2017);
 
--- INSERT INTO movie (id, name, score, year) VALUES The Great Dictator (1940)
+INSERT INTO movie (id, name, score, year) VALUES (76, 'American Beauty', 8.3, 1999);
 
--- INSERT INTO movie (id, name, score, year) VALUES The Lion King (1994)
+INSERT INTO movie (id, name, score, year) VALUES (77, 'Anand', 8.3, 1971);
 
--- INSERT INTO movie (id, name, score, year) VALUES The Shining (1980)
+INSERT INTO movie (id, name, score, year) VALUES (78, 'Braveheart', 8.3, 1995);
 
--- Cinema Paradiso (1988)
+INSERT INTO movie (id, name, score, year) VALUES (79, 'Das Boot', 8.3, 1981);
 
--- American Beauty (1999)
+INSERT INTO movie (id, name, score, year) VALUES (80, '3 Idiots', 8.3, 2009);
 
--- Paths of Glory (1957)
+INSERT INTO movie (id, name, score, year) VALUES (81, 'Toy Story', 8.3, 1995);
 
--- Guardians of the Galaxy (2014)
+INSERT INTO movie (id, name, score, year) VALUES (82, 'High and Low', 8.3, 1963);
 
--- WALL·E (2008)
+INSERT INTO movie (id, name, score, year) VALUES (83, 'Like Stars on Earth', 8.3, 2007);
 
--- North by Northwest (1959)
+INSERT INTO movie (id, name, score, year) VALUES (84, 'Amadeus', 8.3, 1984);
 
--- Aliens (1986)
+INSERT INTO movie (id, name, score, year) VALUES (85, 'Star Wars: Episode VI - Return of the Jedi', 8.3, 1983);
 
--- Amélie (2001)
+INSERT INTO movie (id, name, score, year) VALUES (86, '1917', 8.3, 2019);
 
--- Citizen Kane (1941)
+INSERT INTO movie (id, name, score, year) VALUES (87, 'Reservoir Dogs', 8.3, 1992);
 
--- Vertigo (1958)
+INSERT INTO movie (id, name, score, year) VALUES (88, 'Inglourious Basterds', 8.3, 2009);
 
--- Toy Story 3 (2010)
+INSERT INTO movie (id, name, score, year) VALUES (89, 'Good Will Hunting', 8.3, 1997);
 
--- M (1931)
+INSERT INTO movie (id, name, score, year) VALUES (90, '2001: A Space Odyssey', 8.3, 1968);
 
--- Das Boot (1981)
+INSERT INTO movie (id, name, score, year) VALUES (91, 'Vertigo', 8.3, 1958);
 
--- Oldboy (2003)
+INSERT INTO movie (id, name, score, year) VALUES (92, 'Requiem for a Dream', 8.3, 2000);
 
--- Princess Mononoke (1997)
+INSERT INTO movie (id, name, score, year) VALUES (93, 'M', 8.3, 1931);
 
--- A Clockwork Orange (1971)
+INSERT INTO movie (id, name, score, year) VALUES (94, 'Dangal', 8.3, 2016);
 
--- Taxi Driver (1976)
+INSERT INTO movie (id, name, score, year) VALUES (95, 'Capernaum', 8.3, 2018);
 
--- Star Wars: Episode VI - The Return of the Jedi (1983)
+INSERT INTO movie (id, name, score, year) VALUES (96, 'Eternal Sunshine of the Spotless Mind', 8.3, 2004);
 
--- Grave of the Fireflies (1988)
+INSERT INTO movie (id, name, score, year) VALUES (97, 'Citizen Kane', 8.3, 1941);
 
--- Reservoir Dogs (1992)
+INSERT INTO movie (id, name, score, year) VALUES (98, 'The Hunt', 8.3, 2012);
 
--- Double Indemnity (1944)
+INSERT INTO movie (id, name, score, year) VALUES (99, 'Full Metal Jacket', 8.3, 1987);
 
--- Once Upon a Time in America (1984)
+INSERT INTO movie (id, name, score, year) VALUES (100, 'Bicycle Thieves', 8.2, 1948);
 
--- Requiem for a Dream (2000)
+INSERT INTO movie (id, name, score, year) VALUES (101, 'North by Northwest', 8.2, 1959);
 
--- Braveheart (1995)
+INSERT INTO movie (id, name, score, year) VALUES (102, 'The Kid', 8.2, 1921);
 
--- To Kill a Mockingbird (1962)
+INSERT INTO movie (id, name, score, year) VALUES (103, 'A Clockwork Orange', 8.2, 1971);
 
--- Lawrence of Arabia (1962)
+INSERT INTO movie (id, name, score, year) VALUES (104, 'Snatch', 8.2, 2000);
 
--- Eternal Sunshine of the Spotless Mind (2004)
+INSERT INTO movie (id, name, score, year) VALUES (105, 'Singin\' in the Rain', 8.2, 1952);
 
--- Witness for the Prosecution (1957)
+INSERT INTO movie (id, name, score, year) VALUES (106, 'Scarface', 8.2, 1983);
 
--- Full Metal Jacket (1987)
+INSERT INTO movie (id, name, score, year) VALUES (107, 'Taxi Driver', 8.2, 1976);
 
--- Singin' in the Rain (1952)
+INSERT INTO movie (id, name, score, year) VALUES (108, 'Amelie', 8.2, 2001);
 
--- The Sting (1973)
+INSERT INTO movie (id, name, score, year) VALUES (109, 'Lawerence of Arabia', 8.2, 1962);
 
--- Bicycle Thieves (1948)
+INSERT INTO movie (id, name, score, year) VALUES (110, 'Toy Story 3', 8.2, 2010);
 
--- Amadeus (1984)
+INSERT INTO movie (id, name, score, year) VALUES (111, 'The Sting', 8.2, 1973);
 
--- Monty Python and the Holy Grail (1975)
+INSERT INTO movie (id, name, score, year) VALUES (112, 'Ikiru', 8.2, 1952);
 
--- Snatch. (2000)
+INSERT INTO movie (id, name, score, year) VALUES (113, 'Metropolis', 8.2, 1927);
 
--- L.A. Confidential (1997)
+INSERT INTO movie (id, name, score, year) VALUES (114, 'For a Few Dollars More', 8.2, 1965);
 
--- All About Eve (1950)
+INSERT INTO movie (id, name, score, year) VALUES (115, 'A Separation', 8.2, 2011);
 
--- Rashomon (1950)
+INSERT INTO movie (id, name, score, year) VALUES (116, 'Double Indemnity', 8.2, 1944);
 
--- The Apartment (1960)
+INSERT INTO movie (id, name, score, year) VALUES (117, 'The Apartment', 8.2, 1960);
 
--- For a Few Dollars More (1965)
+INSERT INTO movie (id, name, score, year) VALUES (118, 'Incendies', 8.2, 2010);
 
--- The Treasure of the Sierra Madre (1948)
+INSERT INTO movie (id, name, score, year) VALUES (119, 'To Kill a Mockingbird', 8.2, 1962);
 
--- Some Like It Hot (1959)
+INSERT INTO movie (id, name, score, year) VALUES (120, 'Indiana Jones and the Last Crusade', 8.2, 1989);
 
--- The Third Man (1949)
+INSERT INTO movie (id, name, score, year) VALUES (121, 'Up', 8.2, 2009);
 
--- The Kid (1921)
+INSERT INTO movie (id, name, score, year) VALUES (122, 'L.A. Confidential', 8.2, 1997);
 
--- Indiana Jones and the Last Crusade (1989)
+INSERT INTO movie (id, name, score, year) VALUES (123, 'Heat', 8.2, 1995);
 
--- Inglourious Basterds (2009)
+INSERT INTO movie (id, name, score, year) VALUES (124, 'Monty Python and the Holy Grail', 8.2, 1975);
 
--- A Separation (2011)
+INSERT INTO movie (id, name, score, year) VALUES (125, 'Die Hard', 8.2, 1988);
 
--- 2001: A Space Odyssey (1968)
+INSERT INTO movie (id, name, score, year) VALUES (126, 'Rashomon', 8.2, 1950);
 
--- Batman Begins (2005)
+INSERT INTO movie (id, name, score, year) VALUES (127, 'Yojimbo', 8.2, 1961);
 
--- Yojimbo (1961)
+INSERT INTO movie (id, name, score, year) VALUES (128, 'Come and See', 8.2, 1985);
 
--- Metropolis (1927)
+INSERT INTO movie (id, name, score, year) VALUES (129, 'Batman Begins', 8.2, 2005);
 
--- Toy Story (1995)
+INSERT INTO movie (id, name, score, year) VALUES (130, 'Children of Heaven', 8.2, 1997);
 
--- Unforgiven (1992)
+INSERT INTO movie (id, name, score, year) VALUES (131, 'Green Book', 8.2, 2018);
 
--- Raging Bull (1980)
+INSERT INTO movie (id, name, score, year) VALUES (132, 'Downfall', 8.2, 2004);
 
--- Scarface (1983)
+INSERT INTO movie (id, name, score, year) VALUES (133, 'Unforgiven', 8.2, 1992);
 
--- Chinatown (1974)
+INSERT INTO movie (id, name, score, year) VALUES (134, 'Some Like It Hot', 8.2, 1959);
 
--- Up (2009)
+INSERT INTO movie (id, name, score, year) VALUES (135, 'Ran', 8.2, 1985);
 
--- Die Hard (1988)
+INSERT INTO movie (id, name, score, year) VALUES (136, 'Howl\s Moving Castle', 8.2, 2004);
 
--- Downfall (2004)
+INSERT INTO movie (id, name, score, year) VALUES (137, 'The Great Escape', 8.2, 1963);
 
--- The Great Escape (1963)
+INSERT INTO movie (id, name, score, year) VALUES (138, 'All About Eve', 8.2, 1950);
 
--- Like Stars on Earth (2007)
+INSERT INTO movie (id, name, score, year) VALUES (139, 'A Beautiful Mind', 8.2, 2001);
 
--- Mr. Smith Goes to Washington (1939)
+INSERT INTO movie (id, name, score, year) VALUES (140, 'Casino', 8.2, 1995);
 
--- Pan's Labyrinth (2006)
+INSERT INTO movie (id, name, score, year) VALUES (141, 'Pan\'s Labyrinth', 8.2, 2006);
 
--- On the Waterfront (1954)
+INSERT INTO movie (id, name, score, year) VALUES (142, 'The Secret in Their Eyes', 8.2, 2009);
 
--- Heat (1995)
+INSERT INTO movie (id, name, score, year) VALUES (143, 'My Neighbor Totoro', 8.2, 1988);
 
--- The Bridge on the River Kwai (1957)
+INSERT INTO movie (id, name, score, year) VALUES (144, 'The Wolf of Wall Street', 8.2, 2013);
 
--- The Hunt (2012)
+INSERT INTO movie (id, name, score, year) VALUES (145, 'Lock, Stock and Two Smoking Barrels', 8.2, 1998);
 
--- The Wolf of Wall Street (2013)
+INSERT INTO movie (id, name, score, year) VALUES (146, 'Raging Bull', 8.2, 1980);
 
--- 3 Idiots (2009)
+INSERT INTO movie (id, name, score, year) VALUES (147, 'The Treasure of the Sierra Madre', 8.1, 1948);
 
--- The Seventh Seal (1957)
+INSERT INTO movie (id, name, score, year) VALUES (148, 'Judgment at Nuremberg', 8.1, 1961);
 
--- Good Will Hunting (1997)
+INSERT INTO movie (id, name, score, year) VALUES (149, 'There Will Be Blood', 8.1, 2007);
 
--- My Neighbor Totoro (1988)
+INSERT INTO movie (id, name, score, year) VALUES (150, 'My Father and My Son', 8.1, 2005);
 
--- The Elephant Man (1980)
+INSERT INTO movie (id, name, score, year) VALUES (151, 'Three Billbords Outside Ebbing, Missouri', 8.1, 2017);
 
--- Wild Strawberries (1957)
+INSERT INTO movie (id, name, score, year) VALUES (152, 'The Gold Rush', 8.1, 1925);
 
--- The Gold Rush (1925)
+INSERT INTO movie (id, name, score, year) VALUES (153, 'Dial D for Murder', 8.1, 1954);
 
--- Ran (1985)
+INSERT INTO movie (id, name, score, year) VALUES (154, 'Chinatown', 8.1, 1974);
 
--- Blade Runner (1982)
+INSERT INTO movie (id, name, score, year) VALUES (155, 'V for Vendetta', 8.1, 2005);
 
--- Lock, Stock and Two Smoking Barrels (1998)
+INSERT INTO movie (id, name, score, year) VALUES (156, 'The Seventh Seal', 8.1, 1957);
 
--- The General (1926)
+INSERT INTO movie (id, name, score, year) VALUES (157, 'No Country for Old Men', 8.1, 2007);
 
--- Ikiru (1952)
+INSERT INTO movie (id, name, score, year) VALUES (158, 'Inside Out', 8.1, 2015);
 
--- X-Men: Days of Future Past (2014)
+INSERT INTO movie (id, name, score, year) VALUES (159, 'Shutter Island', 8.1, 2010);
 
--- Dil Chahta Hai (2001)
+INSERT INTO movie (id, name, score, year) VALUES (160, 'Warrior', 8.1, 2011);
 
--- Gran Torino (2008)
+INSERT INTO movie (id, name, score, year) VALUES (161, 'The Elephant Man', 8.1, 1980);
 
--- The Secret in Their Eyes (2009)
+INSERT INTO movie (id, name, score, year) VALUES (162, 'Trainspotting', 8.1, 1996);
 
--- The Big Lebowski (1998)
+INSERT INTO movie (id, name, score, year) VALUES (163, 'The Sixth Sense', 8.1, 1999);
 
--- Rebecca (1940)
+INSERT INTO movie (id, name, score, year) VALUES (164, 'The Thing', 8.1, 1982);
 
--- Casino (1995)
+INSERT INTO movie (id, name, score, year) VALUES (165, 'Gone with the Wind', 8.1, 1939);
 
--- Warrior (2011)
+INSERT INTO movie (id, name, score, year) VALUES (166, 'Jurassic Park', 8.1, 1993);
 
--- V for Vendetta (2005)
+INSERT INTO movie (id, name, score, year) VALUES (167, 'Room', 8.1, 2015);
 
--- It Happened One Night (1934)
+INSERT INTO movie (id, name, score, year) VALUES (168, 'Wild Strawberries', 8.1, 1957);
 
--- The Deer Hunter (1978)
+INSERT INTO movie (id, name, score, year) VALUES (169, 'Blade Runner', 8.1, 1982);
 
--- Cool Hand Luke (1967)
+INSERT INTO movie (id, name, score, year) VALUES (170, 'Finding Nemo', 8.1, 2003);
 
--- Rush (2013)
+INSERT INTO movie (id, name, score, year) VALUES (171, 'The Bridge on the River Kwai', 8.1, 1957);
 
--- Howl's Moving Castle (2004)
+INSERT INTO movie (id, name, score, year) VALUES (172, 'Stalker', 8.1, 1979);
 
--- Fargo (1996)
+INSERT INTO movie (id, name, score, year) VALUES (173, 'The Truman Show', 8.1, 1998);
 
--- How to Train Your Dragon (2010)
+INSERT INTO movie (id, name, score, year) VALUES (174, 'On the Waterfront', 8.1, 1954);
 
--- The Maltese Falcon (1941)
+INSERT INTO movie (id, name, score, year) VALUES (175, 'The Third Man', 8.1, 1949);
 
--- Trainspotting (1996)
+INSERT INTO movie (id, name, score, year) VALUES (176, 'Kill Bill: Vol. 1', 8.1, 2003);
 
--- Gone with the Wind (1939)
+INSERT INTO movie (id, name, score, year) VALUES (177, 'Fargo', 8.1, 1996);
 
--- Into the Wild (2007)
+INSERT INTO movie (id, name, score, year) VALUES (178, 'Gran Torino', 8.1, 2008);
 
--- Judgment at Nuremberg (1961)
+INSERT INTO movie (id, name, score, year) VALUES (179, 'Tokyo Story', 8.1, 1953);
 
--- Colour It Yellow (2006)
+INSERT INTO movie (id, name, score, year) VALUES (180, 'Memories of Murder', 8.1, 2003);
 
--- Hotel Rwanda (2004)
+INSERT INTO movie (id, name, score, year) VALUES (181, 'The Deer Hunter', 8.1, 1978);
 
--- 12 Years a Slave (2013)
+INSERT INTO movie (id, name, score, year) VALUES (182, 'Wild Tales', 8.1, 2014);
 
--- A Beautiful Mind (2001)
+INSERT INTO movie (id, name, score, year) VALUES (183, 'Klaus', 8.1, 2019);
 
--- The Sixth Sense (1999)
+INSERT INTO movie (id, name, score, year) VALUES (184, 'Andhadhun', 8.1, 2018);
 
--- Dial M for Murder (1954)
+INSERT INTO movie (id, name, score, year) VALUES (185, 'The Bandit', 8.1, 1996);
 
--- The Thing (1982)
+INSERT INTO movie (id, name, score, year) VALUES (186, 'Mary and Max', 8.1, 2009);
 
--- Butch Cassidy and the Sundance Kid (1969)
+INSERT INTO movie (id, name, score, year) VALUES (187, 'The Big Lebowski', 8.1, 1998);
 
--- Kill Bill: Vol. 1 (2003)
+INSERT INTO movie (id, name, score, year) VALUES (188, 'In the Name of the Father', 8.1, 1993);
 
--- No Country for Old Men (2007)
+INSERT INTO movie (id, name, score, year) VALUES (189, 'Gone Girl', 8.1, 2014);
 
--- Finding Nemo (2003)
+INSERT INTO movie (id, name, score, year) VALUES (190, 'Hacksaw Ridge', 8.1, 2016);
 
--- Platoon (1986)
+INSERT INTO movie (id, name, score, year) VALUES (191, 'The Grand Budapest Hotel', 8.1, 2014);
 
--- The Wages of Fear (1953)
+INSERT INTO movie (id, name, score, year) VALUES (192, 'Persona', 8.1, 1966);
 
--- Mary and Max (2009)
+INSERT INTO movie (id, name, score, year) VALUES (193, 'To Be or Not to Be', 8.1, 1942);
 
--- The Grand Budapest Hotel (2014)
+INSERT INTO movie (id, name, score, year) VALUES (194, 'Ford v Ferrari', 8.1, 2019);
 
--- Life of Brian (1979)
+INSERT INTO movie (id, name, score, year) VALUES (195, 'Before Sunrise', 8.1, 1995);
 
--- Sin City (2005)
+INSERT INTO movie (id, name, score, year) VALUES (196, 'Catch Me If You Can', 8.1, 2002);
 
--- Annie Hall (1977)
+INSERT INTO movie (id, name, score, year) VALUES (197, 'The General', 8.1, 1926);
 
--- Network (1976)
+INSERT INTO movie (id, name, score, year) VALUES (198, 'How to Train Your Dragon', 8.1, 2010);
 
--- Touch of Evil (1958)
+INSERT INTO movie (id, name, score, year) VALUES (199, 'Mr. Smith Goes to Washington', 8.1, 1939);
 
--- Diabolique (1955)
+INSERT INTO movie (id, name, score, year) VALUES (200, 'Sherlock Jr.', 8.1, 1924);
 
--- Incendies (2010)
+INSERT INTO movie (id, name, score, year) VALUES (201, 'Prisoners', 8.1, 2013);
 
--- The Princess Bride (1987)
+INSERT INTO movie (id, name, score, year) VALUES (202, '12 Years a Slave', 8.1, 2013);
 
--- Stand by Me (1986)
+INSERT INTO movie (id, name, score, year) VALUES (203, 'Mad Max: Fury Road', 8.1, 2015);
 
--- There Will Be Blood (2007)
+INSERT INTO movie (id, name, score, year) VALUES (204, 'Cool Hand Luke', 8.1, 1967);
 
--- Amores Perros (2000)
+INSERT INTO movie (id, name, score, year) VALUES (205, 'Barry London', 8.1, 1975);
 
--- Ben-Hur (1959)
+INSERT INTO movie (id, name, score, year) VALUES (206, 'Network', 8.1, 1976);
 
--- The Wizard of Oz (1939)
+INSERT INTO movie (id, name, score, year) VALUES (207, 'The Wages of Fear', 8.1, 1953);
 
--- The Avengers (2012)
+INSERT INTO movie (id, name, score, year) VALUES (208, 'Stand by Me', 8.1, 1986);
 
--- Million Dollar Baby (2004)
+INSERT INTO movie (id, name, score, year) VALUES (209, 'Into the Wild', 8.1, 2007);
 
--- The Grapes of Wrath (1940)
+INSERT INTO movie (id, name, score, year) VALUES (210, 'Million Dollar Baby', 8.1, 2004);
 
--- The 400 Blows (1959)
+INSERT INTO movie (id, name, score, year) VALUES (211, 'Hachi: A Dog\'s Tale', 8.1, 2009);
 
--- Hachi: A Dog's Tale (2009)
+INSERT INTO movie (id, name, score, year) VALUES (212, 'Monty Python\'s Life of Brian', 8.1, 1979);
 
--- In the Name of the Father (1993)
+INSERT INTO movie (id, name, score, year) VALUES (213, 'Ben-Hur', 8.1, 1959);
 
--- The Best Years of Our Lives (1946)
+INSERT INTO movie (id, name, score, year) VALUES (214, 'Platoon', 8.1, 1986);
 
--- The Bourne Ultimatum (2007)
+INSERT INTO movie (id, name, score, year) VALUES (215, 'Rush', 8.1, 2013);
 
--- Donnie Darko (2001)
+INSERT INTO movie (id, name, score, year) VALUES (216, 'Dead Poets Society', 8.0, 1989);
 
--- Strangers on a Train (1951)
+INSERT INTO movie (id, name, score, year) VALUES (217, 'Logan', 8.0, 2017);
 
--- Persona (1966)
+INSERT INTO movie (id, name, score, year) VALUES (218, 'Harry Potter and the Deathly Hallows: Part 2', 8.0, 2011);
 
--- Gandhi (1982)
+INSERT INTO movie (id, name, score, year) VALUES (219, 'The Passion of Joan of Arc', 8.0, 1928);
 
--- 8½ (1963)
+INSERT INTO movie (id, name, score, year) VALUES (220, 'Andrei Rublev', 8.0, 1966);
 
--- Nausicaä of the Valley of the Wind (1984)
+INSERT INTO movie (id, name, score, year) VALUES (221, 'The 400 Blows', 8.0, 1959);
 
--- Jaws (1975)
+INSERT INTO movie (id, name, score, year) VALUES (222, 'Hotel Rwanda', 8.0, 2004);
 
--- High Noon (1952)
+INSERT INTO movie (id, name, score, year) VALUES (223, 'Amores Perros', 8.0, 2000);
 
--- Infernal Affairs (2002)
+INSERT INTO movie (id, name, score, year) VALUES (224, 'The Handmaiden', 8.0, 2016);
 
--- The King's Speech (2010)
+INSERT INTO movie (id, name, score, year) VALUES (225, 'Spotlight', 8.0, 2015);
 
--- Twelve Monkeys (1995)
+INSERT INTO movie (id, name, score, year) VALUES (226, 'Rang De Basanti', 8.0, 2006);
 
--- Notorious (1946)
+INSERT INTO movie (id, name, score, year) VALUES (227, 'Nausicaa of the Valley of the Wind', 8.0, 1984);
 
--- The Terminator (1984)
+INSERT INTO movie (id, name, score, year) VALUES (228, 'Rocky', 8.0, 1976);
 
--- Stalker (1979)
+INSERT INTO movie (id, name, score, year) VALUES (229, 'Rebecca', 8.0, 1940);
 
--- Harry Potter and the Deathly Hallows: Part 2 (2011)
+INSERT INTO movie (id, name, score, year) VALUES (230, 'Monsters, Inc.', 8.0, 2001);
 
--- Shutter Island (2010)
+INSERT INTO movie (id, name, score, year) VALUES (231, 'La Haine', 8.0, 1995);
 
--- Ip Man (2008)
+INSERT INTO movie (id, name, score, year) VALUES (232, 'Portrait of a Lady of Fire', 8.0, 2019);
 
--- Groundhog Day (1993)
+INSERT INTO movie (id, name, score, year) VALUES (233, 'It Happened One Night', 8.0, 1934);
 
--- Fanny and Alexander (1982)
+INSERT INTO movie (id, name, score, year) VALUES (234, 'Gangs of Wasseypur', 8.0, 2012);
 
--- Rocky (1976)
+INSERT INTO movie (id, name, score, year) VALUES (235, 'In the Mood for Love', 8.0, 2000);
 
--- The Night of the Hunter (1955)
+INSERT INTO movie (id, name, score, year) VALUES (236, 'Before Sunset', 8.0, 2004);
 
--- Before Sunrise (1995)
+INSERT INTO movie (id, name, score, year) VALUES (237, 'Paris, Texas', 8.0, 1984);
 
--- Dog Day Afternoon (1975)
+INSERT INTO movie (id, name, score, year) VALUES (238, 'The Help', 8.0, 2011);
 
--- The Road (1954)
+INSERT INTO movie (id, name, score, year) VALUES (239, 'The Princess Bride', 8.0, 1987);
 
--- Lagaan: Once Upon a Time in India (2001)
+INSERT INTO movie (id, name, score, year) VALUES (240, 'The Invisible Guest', 8.0, 2016);
 
--- Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+INSERT INTO movie (id, name, score, year) VALUES (241, 'Drishyam', 8.0, 2015);
 
--- Her (2013)
+INSERT INTO movie (id, name, score, year) VALUES (242, 'The Terminator', 8.0, 1984);
 
--- Monsters, Inc. (2001)
+INSERT INTO movie (id, name, score, year) VALUES (243, 'Winter Sleep', 8.0, 2014);
 
--- La Haine (1995)
+INSERT INTO movie (id, name, score, year) VALUES (244, 'Ace in the Hole', 8.0, 1951);
 
--- Barry Lyndon (1975)
+INSERT INTO movie (id, name, score, year) VALUES (245, 'Butch Cassidy and the Sundance Kid', 8.0, 1969);
 
--- Who's Afraid of Virginia Woolf? (1966)
+INSERT INTO movie (id, name, score, year) VALUES (246, 'Aladdin', 8.0, 1992);
 
--- The Battle of Algiers (1966)
+INSERT INTO movie (id, name, score, year) VALUES (247, 'Fanny and Alexander', 8.0, 1982);
 
--- The Big Sleep (1946)
+INSERT INTO movie (id, name, score, year) VALUES (248, 'Lagann: Once Upon a Time in India', 8.0, 2001);
 
--- Memories of Murder (2003)
+INSERT INTO movie (id, name, score, year) VALUES (249, 'Three Colors: Red', 8.0, 1994);
 
--- A Fistful of Dollars (1964)
-
--- Castle in the Sky (1986)
-
--- The Graduate (1967)
-
--- How to Train Your Dragon 2 (2014)
-
--- Roman Holiday (1953)
-
--- The Help (2011)
-
--- The Truman Show (1998)
-
--- The Hustler (1961)
-
--- The Celebration (1998)
-
--- Jurassic Park (1993)
-
--- In the Mood for Love (2000)
-
--- Slumdog Millionaire (2008)
-
--- Beauty and the Beast (1991)
-
--- Stalag 17 (1953)
-
--- Rope (1948)
-
--- A Christmas Story (1983)
-
--- The Killing (1956)
-
--- Before Sunset (2004)
-
--- The Raid 2 (2014)
-
--- Elite Squad: The Enemy Within (2010)
-
--- Papillon (1973)
-
--- Swades (2004)
+INSERT INTO movie (id, name, score, year) VALUES (250, 'Chak de! India', 8.0, 2007);
