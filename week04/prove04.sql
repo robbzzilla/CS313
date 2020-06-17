@@ -476,7 +476,7 @@ INSERT INTO movie (id, name, score, year) VALUES (230, 'Monsters, Inc.', 8.0, 20
 
 INSERT INTO movie (id, name, score, year) VALUES (231, 'La Haine', 8.0, 1995);
 
-INSERT INTO movie (id, name, score, year) VALUES (232, 'Portrait of a Lady of Fire', 8.0, 2019);
+INSERT INTO movie (id, name, score, year) VALUES (232, 'Portrait of a Lady on Fire', 8.0, 2019);
 
 INSERT INTO movie (id, name, score, year) VALUES (233, 'It Happened One Night', 8.0, 1934);
 

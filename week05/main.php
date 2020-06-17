@@ -31,7 +31,6 @@
 <html lang="en">
 <?php include 'head.php';?>
 <body>
-    <h1>Movies</h1>
     <div class="container mt-3">
         <input class="form-control" id="myInput" type="text" placeholder="Search..">
         <br>
