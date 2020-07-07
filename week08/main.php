@@ -18,24 +18,24 @@
             <?php
 
             // foreach ($db->query('SELECT * FROM movie') as $row)
-            {
+            // {
                 ?>
             <tbody id="myTable">
                 <tr>
 
                     <?php
                         // $_SESSION['movie'][$row] = array
-                        (
+                        // (
                             // 'id' => $row['id'],
                             // 'name' => $row['name'],
                             // 'score' => $row['score'],
                             // 'year' => $row['year']
-                        );
+                        // );
                     ?>
                 </tr>
             </tbody>
             <?php
-                }
+                // }
             ?>
         </table>
 	   <a href="movies.php">Take me to the movies list</a>-->

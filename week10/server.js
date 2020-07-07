@@ -22,11 +22,13 @@ function getPerson(req, res) {
 
     getPersonFromDB(id, function(error, result) {
         console.log("Back from the getPersonFromDB function with result: ", result);
+
+        if(error || result == null || result.length != 1) {
+            res.status(500).json({success:false, data: error});
+        } else {    
+            res.json(result[0]);
+        }
     });
-
-    var result = {id: 238, first: "John", last: "Smith", birthdate: "195-02-05"};
-
-    res.json(result);
 }
 
 function getPersonFromDB(id, callback) {
