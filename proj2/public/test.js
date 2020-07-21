@@ -7,7 +7,7 @@ function getFilter() {
         city: city
     };
 
-    $.post("/getFilter", params, function(result) {
+    $.post("/proj2/getFilter", params, function(result) {
         if (result.success) {
             $("#status").text("Successfully retrieved filter");
         } else {
