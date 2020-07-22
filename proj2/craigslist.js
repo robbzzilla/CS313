@@ -29,7 +29,7 @@ app.set('port', (process.env.PORT || 5000));
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(logRequest);
-app.post('/proj2/getFilter', handleFilter);
+app.post('/getFilter', handleFilter);
 
 app.listen(app.get('port'), function() {
     console.log('Craiglist Scanner is running on port', app.get('port'));
