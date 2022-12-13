@@ -4,7 +4,7 @@
   "description": "Craigslist scrapper",
   "main": "craigslist.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.1",
     "jquery": "^3.5.1",
     "nightmare": "^3.0.2",
